@@ -6,4 +6,4 @@ class EmailAddressParser
   attr_accessor :emailaddresses 
   
   def emailaddresses
-    puts 
+    @emailaddresses
